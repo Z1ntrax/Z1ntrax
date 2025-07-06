@@ -1,9 +1,9 @@
 beep boop kaboom 💥  
 <br>
-i do ML & Web, but most of my stuff is private.  
+i lua but most of my stuff is private.  
 reverse engineering go brrr
 
-go star hercules pls B)
+go star meee pls B)
 
 [`@Z1ntrax`](https://discordapp.com/users/1319280095474745384) on Discord. pretty much my only active social  
 <br>
@@ -20,7 +20,7 @@ go star hercules pls B)
 <details>
 <summary>Stuff I've Worked On (Unpinned Ones)</summary>
 
-- [athena](https://github.com/PRZELAB/athena) - A discord bot to find obfuscated Lua scripts, and then start the deobfuscation process  
+- [athena](https://github.com/PRZELAB/) - A project to deobfuscate Lua scripts  
 
 </details>
 
