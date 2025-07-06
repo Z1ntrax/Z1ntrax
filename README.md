@@ -20,7 +20,7 @@ go star meee pls B)
 <details>
 <summary>Stuff I've Worked On (Unpinned Ones)</summary>
 
-- [athena](https://github.com/PRZELAB/) - A project to deobfuscate Lua scripts  
+- [Private Project](https://github.com/PRZELAB/) - A project to deobfuscate Lua scripts  
 
 </details>
 
